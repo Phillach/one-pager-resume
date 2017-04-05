@@ -374,6 +374,13 @@ body {
 
 .bio-wrapper {
   border: 1px solid black;
-  max-width: 250px; }
+  max-width: 300px; }
+
+.bio {
+  font-family: "Space Mono", monospace;
+  line-height: 1.5em; }
+
+.picture {
+  border-radius: 100%; }
 
 /*# sourceMappingURL=app.css.map */
