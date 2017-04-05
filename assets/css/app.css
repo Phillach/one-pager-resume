@@ -369,4 +369,11 @@ template {
 [hidden] {
   display: none; }
 
+body {
+  background-color: #fafafa; }
+
+.bio-wrapper {
+  border: 1px solid black;
+  max-width: 250px; }
+
 /*# sourceMappingURL=app.css.map */
