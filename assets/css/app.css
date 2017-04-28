@@ -411,6 +411,7 @@ body {
   color: #4885ed; }
 
 .picture {
-  border-radius: 100%; }
+  border-radius: 100%;
+  border: 8px solid lightgrey; }
 
 /*# sourceMappingURL=app.css.map */
