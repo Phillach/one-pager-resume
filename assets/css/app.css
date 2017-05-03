@@ -377,7 +377,7 @@ body {
   align-items: center; }
 
 .content-wrapper {
-  margin-top: 100px;
+  margin-top: 50px;
   margin-left: 25px;
   margin-right: 25px; }
 
@@ -412,6 +412,9 @@ body {
 
 .gmail {
   color: #4885ed; }
+
+.instagram {
+  color: #D23968; }
 
 .picture {
   border-radius: 100%;
