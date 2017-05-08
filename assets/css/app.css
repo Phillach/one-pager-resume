@@ -503,18 +503,20 @@ body {
 .content-wrapper {
   margin-top: 50px;
   margin-left: 25px;
-  margin-right: 25px; }
-
-.bio-wrapper {
-  max-width: 500px; }
-
-.bio {
+  margin-right: 25px;
   font-family: "Pavanam", sans-serif;
   line-height: 2em;
   font-size: 24px; }
-  .bio a {
+  .content-wrapper a {
     text-decoration: none;
     text-shadow: 1px 1px black; }
+
+.picture {
+  border-radius: 100%;
+  border: 8px solid lightgrey; }
+
+.bio-wrapper {
+  max-width: 500px; }
 
 .mirego {
   color: #8d644b; }
@@ -542,9 +544,5 @@ body {
 
 .spotify {
   color: #1DB954; }
-
-.picture {
-  border-radius: 100%;
-  border: 8px solid lightgrey; }
 
 /*# sourceMappingURL=app.css.map */
