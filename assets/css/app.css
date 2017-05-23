@@ -370,7 +370,7 @@ template {
   display: none; }
 
 .wrapper {
-  max-width: 600px;
+  max-width: 570px;
   text-align: center;
   margin: 0 auto; }
 
@@ -414,5 +414,8 @@ template {
 
 .spotify {
   color: #1DB954; }
+
+.resume {
+  color: #93BAFC; }
 
 /*# sourceMappingURL=app.css.map */
